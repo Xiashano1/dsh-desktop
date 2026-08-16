@@ -1,0 +1,17 @@
+# 构建产物（单文件发布 exe）
+publish-v3/
+
+# .NET 构建输出
+bin/
+obj/
+
+# IDE
+.vs/
+*.user
+*.suo
+
+# 日志
+*.log
+
+# 临时文件
+*.tmp
